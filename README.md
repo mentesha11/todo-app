@@ -1,6 +1,6 @@
 # TODO - Todo react app
 
-Visit my live portfolio: [quizzforyou.netlify.app](https://mytodonoteweb.netlify.app)
+Visit my live portfolio: [mytodonoteweb.netlify.app](https://mytodonoteweb.netlify.app)
 
 ## Tech Stack
 
