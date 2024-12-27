@@ -1,15 +1,20 @@
-Todo - Todo react app
-Visit my live portfolio: mytodonoteweb.netlify.app
+# TODO - Todo react app
 
-Tech Stack
-Frontend: React.js
-Hosting: Netlify
-Run Locally
-Clone the repo:
-git clone https://github.com/mentesha11/todoapp.git
-Install dependencies:
-npm install
-Start the server:
-npm start
-Contact
-Connect with me via email at mantashashvili17@gmail.com
+Visit my live portfolio: [quizzforyou.netlify.app](https://mytodonoteweb.netlify.app)
+
+## Tech Stack
+
+- **Frontend**: React.js  
+- **Hosting**: Netlify  
+
+## Run Locally
+
+1. Clone the repo:  
+   `git clone https://github.com/mentesha11/mytodonoteweb.git`
+2. Install dependencies:  
+   `npm install`
+3. Start the server:  
+   `npm start`
+## Contact
+
+Connect with me via email at [mantashashvili17@gmail.com](mantashashvili17@gmail.com)
